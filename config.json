@@ -1,0 +1,15 @@
+{
+    "title": "Confirming ",
+    "baseURL": "https:\/\/www.confirmingssharingbug.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1759130",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "confirmingssharingbug.com"
+    }
+}
